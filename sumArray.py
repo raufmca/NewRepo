@@ -18,4 +18,5 @@ while s != 0:
     s = s-1
 
 sumArray(lst1)
+print('End of program')
 
