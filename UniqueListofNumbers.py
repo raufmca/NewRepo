@@ -18,4 +18,4 @@ print(list1)
 print("---------- Result -------- ")
 uniqui_list(list1)
 
-    
+print('End of file and program')    
